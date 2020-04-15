@@ -8,7 +8,7 @@ Voice assistant for Raspberry Pi with computer vision
 + time - voiced current time
 + weather - information is parsed on  nd then voiced
 + latest news about brain,crisp - information is parsed on [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/) and then voiced
-+ proverb - information is parsed on [site]() and then voiced
++ proverb - information is parsed on [site](https://wiki.totalwar.com/w/Loading_Screen_Quotes_(M2TW).html) and then voiced
 + classification - pretrained on imagenet MobileNetv2 
 + semantic segmentation - pretrained on 10-12 images with "raspberry pi 0"
 + composition, simpsons, vang gogh starry night - neural style transfer
@@ -24,8 +24,8 @@ Voice assistant for Raspberry Pi with computer vision
 
 
 ## Files
-+ [sensors]() code for sensors
-+ [computer vision]() code for cv
-+ [commands]() code for processing commands
-+ [speech]() speech processing code
++ [sensors](https://github.com/OldBonhart/home_ai/tree/master/en/sensors) - code for sensors
++ [computer_vision](https://github.com/OldBonhart/home_ai/tree/master/en/computer_vision) - code for cv
++ [commands](https://github.com/OldBonhart/home_ai/tree/master/en/commands) - code for processing commands
++ [speech](https://github.com/OldBonhart/home_ai/tree/master/en/speech) - speech processing code
 + main.py -  main file 
